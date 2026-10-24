@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nikhil Raj 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NR86-BLACK%20%7C%20ORANGE-FF6B00?style=for-the-badge&labelColor=111111" alt="NR86 Black and Orange" />
+  <img src="https://img.shields.io/badge/NR86-Baaki%20sab%20theek%2C%20bas%20chal%20ra%20hai%20%F0%9F%98%9D-FF6B00?style=for-the-badge&labelColor=111111" alt="Baaki sab theek, bas chal ra hai" />
 </p>
 
 <h3 align="center">NR86 | B.Tech CSE Student | Aspiring Software Developer</h3>
@@ -54,14 +54,14 @@
 
 ---
 
-## 🟠 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <!-- Keep your existing LinkedIn and Instagram badge links here -->
+  <a href="https://www.instagram.com/nrx_86/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF6B00?style=for-the-badge&logo=instagram&logoColor=FF6B00&labelColor=111111" alt="Instagram" />
+  </a> <br> <br>
+  <a href="https://www.linkedin.com/in/nrx86/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF6B00?style=for-the-badge&logo=linkedin&logoColor=FF6B00&labelColor=111111" alt="LinkedIn" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <i>Consistency beats intensity. Keep building. 🚀</i>
-</p>
