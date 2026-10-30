@@ -104,7 +104,9 @@ I enjoy turning what I learn into projects, experimenting with frontend interfac
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nrx86&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&border_color=334155&hide_border=false&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=nrx86&background=0D1117&border=334155&stroke=334155&ring=8B5CF6&fire=F472B6&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak statistics" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=nrx86&timezone=Asia%2FKolkata&background=0D1117&border=334155&stroke=334155&ring=8B5CF6&fire=F472B6&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak statistics" />
+
 
 <br/><br/>
 
